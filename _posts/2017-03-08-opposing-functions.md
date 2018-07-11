@@ -14,5 +14,5 @@ pluripotency by the Paf1 complex. Cell Cycle. 2017;16(24):2315-2322. doi:
 PMC5788434.
 
 [Cell Cycle](https://www.tandfonline.com/doi/full/10.1080/15384101.2017.1295194)   
-[Altmetric score](https://www.altmetric.com/details/17293275)   
+[Altmetric score](https://www.altmetric.com/details/17293275)  
 [F1000 recommendation](https://f1000.com/prime/727382075)
