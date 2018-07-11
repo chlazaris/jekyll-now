@@ -17,5 +17,5 @@ Cells via Repression of SOX2. Cell Rep. 2017 Oct 31;21(5):1267-1280. doi:
 10.1016/j.celrep.2017.10.009. PubMed PMID: 29091765; PubMed Central PMCID:
 PMC5687844
 
-[Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31426-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124717314262%3Fshowall%3Dtrue). 
+[Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31426-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124717314262%3Fshowall%3Dtrue)   
 [Altmetric score](https://www.altmetric.com/details/28190007)
