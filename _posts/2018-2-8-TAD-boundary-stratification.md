@@ -9,5 +9,5 @@ Citation: Gong Y, Lazaris C, Sakellaropoulos T, Lozano A, Kambadur P, Ntziachris
 7;9(1):542. doi: 10.1038/s41467-018-03017-1. PubMed PMID: 29416042; PubMed Central PMCID: PMC5803259
 
 [Nature Communications](https://www.nature.com/articles/s41467-018-03017-1)  
-[Pubmed]()
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29416042)  
 [Altmetric score](https://www.altmetric.com/details/32790640)
