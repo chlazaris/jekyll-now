@@ -8,5 +8,5 @@ I am a molecular biologist and bioinformatician with particular interest in nucl
 
 ### Contact me
 
-[chlazaris@gmail.com](mailto:chlazaris@gmail.com)
+[chlazaris@gmail.com](mailto:chlazaris@gmail.com)  
 [lazaris@nyu.edu](mailto:lazaris@nyu.edu)
