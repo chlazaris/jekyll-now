@@ -25,9 +25,9 @@ footer-links:
   instagram:
   linkedin: chlazaris
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: https://chlazaris.github.io/feed.xml
   twitter: chlazaris
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/4328907/chlazaris
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
