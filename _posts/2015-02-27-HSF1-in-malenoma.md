@@ -14,4 +14,5 @@ Nat Cell Biol. 2015 Mar;17(3):322-332. doi: 10.1038/ncb3121. PubMed PMID:
 25720964; PubMed Central PMCID: PMC4401662.
 
 [Nature Cell Biology](https://www.nature.com/articles/ncb3121)   
-[Altmetric score](https://www.altmetric.com/details/3756721)
+[Altmetric score](https://www.altmetric.com/details/3756721)  
+[Access this article for free (SharedIt)](https://rdcu.be/3bMO)
