@@ -9,5 +9,5 @@ Citation: Kourtis N<sup>*</sup>, **Lazaris C<sup>*</sup>**, Hockemeyer K, Baland
 <sup>*</sup> Equal contribution
 
 [Nature Medicine](https://www.nature.com/articles/s41591-018-0105-8)    
-[Altmetric score](https://www.altmetric.com/details/45430934)
+[Altmetric score](https://www.altmetric.com/details/45430934)  
 [Access this article for free (SharedIt)](https://rdcu.be/3okL)
